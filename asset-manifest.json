@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rajakammara/rajakammara.github.io/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/rajakammara/rajakammara.github.io/static/js/main.b935657d.chunk.js",
+    "main.js.map": "/rajakammara/rajakammara.github.io/static/js/main.b935657d.chunk.js.map",
+    "runtime-main.js": "/rajakammara/rajakammara.github.io/static/js/runtime-main.f9ad2417.js",
+    "runtime-main.js.map": "/rajakammara/rajakammara.github.io/static/js/runtime-main.f9ad2417.js.map",
+    "static/js/2.7c927daa.chunk.js": "/rajakammara/rajakammara.github.io/static/js/2.7c927daa.chunk.js",
+    "static/js/2.7c927daa.chunk.js.map": "/rajakammara/rajakammara.github.io/static/js/2.7c927daa.chunk.js.map",
+    "static/js/3.28c0b2d7.chunk.js": "/rajakammara/rajakammara.github.io/static/js/3.28c0b2d7.chunk.js",
+    "static/js/3.28c0b2d7.chunk.js.map": "/rajakammara/rajakammara.github.io/static/js/3.28c0b2d7.chunk.js.map",
+    "index.html": "/rajakammara/rajakammara.github.io/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/rajakammara/rajakammara.github.io/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.7c927daa.chunk.js.LICENSE.txt": "/rajakammara/rajakammara.github.io/static/js/2.7c927daa.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/rajakammara/rajakammara.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9ad2417.js",
+    "static/js/2.7c927daa.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.b935657d.chunk.js"
+  ]
+}
